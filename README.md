@@ -1,5 +1,4 @@
 # RDK Services #
-
 RDK services are a set of JSON-RPC based RESTful services for accessing various set-top box components. RDK Services are managed and accessed through the [Thunder](https://github.com/rdkcentral/Thunder) framework. Thunder supports both HTTP and Websocket requests, making the services easily accessible to [Lightning](https://github.com/rdkcentral/Lightning), Web, and native client applications.
 
 [View Latest Documentation](https://rdkcentral.github.io/rdkservices/#/README)
